@@ -1,1 +1,1 @@
-docker build -t ydj317:xampp-7.4.9:origin .
+docker build -t ydj317/xampp-7.4.9:origin .
