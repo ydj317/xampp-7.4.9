@@ -1,0 +1,1 @@
+docker exec -it lampp /opt/lampp/lampp restart
