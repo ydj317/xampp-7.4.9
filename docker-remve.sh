@@ -1,0 +1,1 @@
+docker stop lampp && docker rm lampp
