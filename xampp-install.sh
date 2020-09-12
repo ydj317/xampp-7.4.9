@@ -1,0 +1,1 @@
+docker exec -it lampp /tmp/xampp-installer.run
