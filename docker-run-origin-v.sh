@@ -1,0 +1,1 @@
+docker run -i -t --name lampp -v /opt/lampp/etc:/opt/lampp/etc -v /opt/lampp/var:/opt/lampp/var -p 80:80 -p 443:443 -p 3306:3306 -d ydj317/xampp-7.4.9:origin
